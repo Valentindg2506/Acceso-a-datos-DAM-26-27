@@ -23,7 +23,7 @@ En este repositorio voy a ir guardando todo lo relacionado con la asignatura:
 ```text
 Acceso-a-Datos/
 │
-├── Apuntes/
+├── Clases/
 │   ├── Tema-1/
 │   ├── Tema-2/
 │   └── ...
