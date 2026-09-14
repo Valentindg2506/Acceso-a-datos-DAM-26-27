@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Lucía",
+        "apellidos": "Romero Navarro",
+        "telefono": "666778899"
+    },
+    {
+        "nombre": "Alejandro",
+        "apellidos": "Serrano Molina",
+        "telefono": "677889900"
+    },
+    {
+        "nombre": "Nerea",
+        "apellidos": "Castro Domínguez",
+        "telefono": "688990011"
+    },
+    {
+        "nombre": "Pablo",
+        "apellidos": "Ortega Vidal",
+        "telefono": "699001122"
+    },
+    {
+        "nombre": "Claudia",
+        "apellidos": "Morales Martín",
+        "telefono": "610112233"
+    }
+]
