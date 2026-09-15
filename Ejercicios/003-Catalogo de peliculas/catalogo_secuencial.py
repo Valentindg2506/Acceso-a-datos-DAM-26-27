@@ -8,7 +8,7 @@ def escribir_varias_peliculas():
 	peliculas = [
 		"Matrix,148\n",
 		"Titanic,195\n",
-		"Avatar,162\n"
+		"Avatar,162\n"	
 	]
 
 	flujo = open(NOMBRE_FICHERO, "w")
