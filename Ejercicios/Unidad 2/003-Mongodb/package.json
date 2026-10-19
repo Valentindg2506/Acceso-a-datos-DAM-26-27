@@ -1,0 +1,17 @@
+{
+  "name": "practica-biblioteca",
+  "version": "1.0.0",
+  "description": "Práctica MongoDB y Node.js adaptada a Ubuntu",
+  "main": "conexion.js",
+  "scripts": {
+    "conexion": "node conexion.js",
+    "listar": "node listar.js",
+    "insertar": "node insertar.js",
+    "buscar": "node buscar.js",
+    "prestar": "node prestar.js",
+    "estadisticas": "node estadisticas.js"
+  },
+  "dependencies": {
+    "mongodb": "^7.0.0"
+  }
+}
